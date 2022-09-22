@@ -309,6 +309,8 @@ mA             = milliampere    # milliampere
 microampere    = 0.001 mA
 kiloampere     = 1000 A
 kA             = kiloampere     # kiloampere
+nanoampere     = 0.001 microampere
+nanoamp        = 0.001 microampere
 [charge]
 coulomb        = A*s
 amp hour       = A*hr
